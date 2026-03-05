@@ -29,10 +29,7 @@ jobs:
 
       - name: Build JupyterLite
         run: |
-          jupyter lite build \
-  --contents contents \
-  --output-dir _output \
-  --base-url /Jupyterlite-1854-Cholera-Outbreak-London-Advanced-1/
+          jupyter lite build --contents contents --output-dir _output --base-url /Jupyterlite-1854-Cholera-Outbreak-London-Advanced-1/
 
       # Optional: overwrite index or add CNAME here if needed
 
