@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-03-05T19:42:52.875792Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-03-05T19:42:52.875792Z",
+      "mimetype": null,
+      "name": "graph.shp",
+      "path": "data/outputs/graph.shp",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    }
+  ],
+  "created": "2026-03-05T19:42:52.859971Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-03-05T19:42:52.859971Z",
+  "mimetype": null,
+  "name": "outputs",
+  "path": "data/outputs",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

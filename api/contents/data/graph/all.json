@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-03-05T19:42:52.853464Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-03-05T19:42:52.853464Z",
+      "mimetype": null,
+      "name": "edges",
+      "path": "data/graph/edges",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-03-05T19:42:52.858882Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-03-05T19:42:52.858882Z",
+      "mimetype": null,
+      "name": "nodes",
+      "path": "data/graph/nodes",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    }
+  ],
+  "created": "2026-03-05T19:42:52.854597Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-03-05T19:42:52.854597Z",
+  "mimetype": null,
+  "name": "graph",
+  "path": "data/graph",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
